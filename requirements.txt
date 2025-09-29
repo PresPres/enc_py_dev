@@ -1,0 +1,3 @@
+pycryptodome==3.4.0   # too old on purpose
+typo-lib==0.0.0       # non-existent on purpose
+click==9.9.9          # wrong version on purpose
